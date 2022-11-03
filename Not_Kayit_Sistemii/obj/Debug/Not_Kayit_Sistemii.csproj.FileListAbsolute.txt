@@ -1,0 +1,12 @@
+C:\Users\HP\source\repos\Not_Kayit_Sistemii\bin\Debug\Not_Kayit_Sistemii.exe.config
+C:\Users\HP\source\repos\Not_Kayit_Sistemii\bin\Debug\Not_Kayit_Sistemii.exe
+C:\Users\HP\source\repos\Not_Kayit_Sistemii\bin\Debug\Not_Kayit_Sistemii.pdb
+C:\Users\HP\source\repos\Not_Kayit_Sistemii\obj\Debug\Not_Kayit_Sistemii.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Not_Kayit_Sistemii\obj\Debug\Not_Kayit_Sistemii.Form1.resources
+C:\Users\HP\source\repos\Not_Kayit_Sistemii\obj\Debug\Not_Kayit_Sistemii.Properties.Resources.resources
+C:\Users\HP\source\repos\Not_Kayit_Sistemii\obj\Debug\Not_Kayit_Sistemii.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Not_Kayit_Sistemii\obj\Debug\Not_Kayit_Sistemii.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Not_Kayit_Sistemii\obj\Debug\Not_Kayit_Sistemii.exe
+C:\Users\HP\source\repos\Not_Kayit_Sistemii\obj\Debug\Not_Kayit_Sistemii.pdb
+C:\Users\HP\source\repos\Not_Kayit_Sistemii\obj\Debug\Not_Kayit_Sistemii.OgrenciDetay.resources
+C:\Users\HP\source\repos\Not_Kayit_Sistemii\obj\Debug\Not_Kayit_Sistemii.OgretmenDetay.resources
